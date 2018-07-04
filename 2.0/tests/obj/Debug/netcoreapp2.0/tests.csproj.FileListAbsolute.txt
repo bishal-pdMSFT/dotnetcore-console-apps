@@ -1,0 +1,14 @@
+C:\github\dotnetcore-console-apps\2.0\tests\bin\Debug\netcoreapp2.0\tests.deps.json
+C:\github\dotnetcore-console-apps\2.0\tests\bin\Debug\netcoreapp2.0\tests.runtimeconfig.json
+C:\github\dotnetcore-console-apps\2.0\tests\bin\Debug\netcoreapp2.0\tests.runtimeconfig.dev.json
+C:\github\dotnetcore-console-apps\2.0\tests\obj\Debug\netcoreapp2.0\tests.AssemblyInfo.cs
+C:\github\dotnetcore-console-apps\2.0\tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\github\dotnetcore-console-apps\2.0\tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\github\dotnetcore-console-apps\2.0\tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\github\dotnetcore-console-apps\2.0\tests\bin\Debug\netcoreapp2.0\tests.dll
+C:\github\dotnetcore-console-apps\2.0\tests\bin\Debug\netcoreapp2.0\tests.pdb
+C:\github\dotnetcore-console-apps\2.0\tests\obj\Debug\netcoreapp2.0\tests.csprojAssemblyReference.cache
+C:\github\dotnetcore-console-apps\2.0\tests\obj\Debug\netcoreapp2.0\tests.csproj.CoreCompileInputs.cache
+C:\github\dotnetcore-console-apps\2.0\tests\obj\Debug\netcoreapp2.0\tests.AssemblyInfoInputs.cache
+C:\github\dotnetcore-console-apps\2.0\tests\obj\Debug\netcoreapp2.0\tests.dll
+C:\github\dotnetcore-console-apps\2.0\tests\obj\Debug\netcoreapp2.0\tests.pdb
