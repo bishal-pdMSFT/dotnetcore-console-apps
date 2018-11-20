@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github\\dotnetcore-console-apps\\2.0\\src\\2.0.csproj",
+      "projectUniqueName": "E:\\github\\dotnetcore-console-apps\\2.0\\src\\2.0.csproj",
       "projectName": "2.0",
-      "projectPath": "C:\\github\\dotnetcore-console-apps\\2.0\\src\\2.0.csproj",
+      "projectPath": "E:\\github\\dotnetcore-console-apps\\2.0\\src\\2.0.csproj",
       "packagesPath": "C:\\Users\\biprasad\\.nuget\\packages\\",
-      "outputPath": "C:\\github\\dotnetcore-console-apps\\2.0\\src\\obj\\",
+      "outputPath": "E:\\github\\dotnetcore-console-apps\\2.0\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -688,7 +688,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "E:\\vso\\pkg": {},
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
