@@ -1,0 +1,14 @@
+C:\github\dotnetcore-console-apps\MultiVersion\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\github\dotnetcore-console-apps\MultiVersion\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\github\dotnetcore-console-apps\MultiVersion\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\github\dotnetcore-console-apps\MultiVersion\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.deps.json
+C:\github\dotnetcore-console-apps\MultiVersion\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.runtimeconfig.json
+C:\github\dotnetcore-console-apps\MultiVersion\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.runtimeconfig.dev.json
+C:\github\dotnetcore-console-apps\MultiVersion\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.dll
+C:\github\dotnetcore-console-apps\MultiVersion\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.pdb
+C:\github\dotnetcore-console-apps\MultiVersion\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.csprojAssemblyReference.cache
+C:\github\dotnetcore-console-apps\MultiVersion\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\github\dotnetcore-console-apps\MultiVersion\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.AssemblyInfoInputs.cache
+C:\github\dotnetcore-console-apps\MultiVersion\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.AssemblyInfo.cs
+C:\github\dotnetcore-console-apps\MultiVersion\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.dll
+C:\github\dotnetcore-console-apps\MultiVersion\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.pdb

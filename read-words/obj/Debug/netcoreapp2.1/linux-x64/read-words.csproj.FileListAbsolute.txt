@@ -1,0 +1,13 @@
+E:\github\dotnetcore-console-apps\read-words\bin\Debug\netcoreapp2.1\linux-x64\libhostpolicy.so
+E:\github\dotnetcore-console-apps\read-words\bin\Debug\netcoreapp2.1\linux-x64\libhostfxr.so
+E:\github\dotnetcore-console-apps\read-words\bin\Debug\netcoreapp2.1\linux-x64\read-words
+E:\github\dotnetcore-console-apps\read-words\bin\Debug\netcoreapp2.1\linux-x64\read-words.deps.json
+E:\github\dotnetcore-console-apps\read-words\bin\Debug\netcoreapp2.1\linux-x64\read-words.runtimeconfig.json
+E:\github\dotnetcore-console-apps\read-words\bin\Debug\netcoreapp2.1\linux-x64\read-words.runtimeconfig.dev.json
+E:\github\dotnetcore-console-apps\read-words\bin\Debug\netcoreapp2.1\linux-x64\read-words.dll
+E:\github\dotnetcore-console-apps\read-words\bin\Debug\netcoreapp2.1\linux-x64\read-words.pdb
+E:\github\dotnetcore-console-apps\read-words\obj\Debug\netcoreapp2.1\linux-x64\read-words.csproj.CoreCompileInputs.cache
+E:\github\dotnetcore-console-apps\read-words\obj\Debug\netcoreapp2.1\linux-x64\read-words.AssemblyInfoInputs.cache
+E:\github\dotnetcore-console-apps\read-words\obj\Debug\netcoreapp2.1\linux-x64\read-words.AssemblyInfo.cs
+E:\github\dotnetcore-console-apps\read-words\obj\Debug\netcoreapp2.1\linux-x64\read-words.dll
+E:\github\dotnetcore-console-apps\read-words\obj\Debug\netcoreapp2.1\linux-x64\read-words.pdb

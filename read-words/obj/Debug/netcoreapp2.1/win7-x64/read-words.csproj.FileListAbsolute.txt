@@ -1,0 +1,14 @@
+E:\github\dotnetcore-console-apps\read-words\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+E:\github\dotnetcore-console-apps\read-words\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+E:\github\dotnetcore-console-apps\read-words\bin\Debug\netcoreapp2.1\win7-x64\read-words.exe
+E:\github\dotnetcore-console-apps\read-words\bin\Debug\netcoreapp2.1\win7-x64\read-words.deps.json
+E:\github\dotnetcore-console-apps\read-words\bin\Debug\netcoreapp2.1\win7-x64\read-words.runtimeconfig.json
+E:\github\dotnetcore-console-apps\read-words\bin\Debug\netcoreapp2.1\win7-x64\read-words.runtimeconfig.dev.json
+E:\github\dotnetcore-console-apps\read-words\bin\Debug\netcoreapp2.1\win7-x64\read-words.dll
+E:\github\dotnetcore-console-apps\read-words\bin\Debug\netcoreapp2.1\win7-x64\read-words.pdb
+E:\github\dotnetcore-console-apps\read-words\obj\Debug\netcoreapp2.1\win7-x64\read-words.csprojAssemblyReference.cache
+E:\github\dotnetcore-console-apps\read-words\obj\Debug\netcoreapp2.1\win7-x64\read-words.csproj.CoreCompileInputs.cache
+E:\github\dotnetcore-console-apps\read-words\obj\Debug\netcoreapp2.1\win7-x64\read-words.AssemblyInfoInputs.cache
+E:\github\dotnetcore-console-apps\read-words\obj\Debug\netcoreapp2.1\win7-x64\read-words.AssemblyInfo.cs
+E:\github\dotnetcore-console-apps\read-words\obj\Debug\netcoreapp2.1\win7-x64\read-words.dll
+E:\github\dotnetcore-console-apps\read-words\obj\Debug\netcoreapp2.1\win7-x64\read-words.pdb
