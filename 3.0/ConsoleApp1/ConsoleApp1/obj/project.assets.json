@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {},
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": [],
+    ".NETCoreApp,Version=v3.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\biprasad\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\github\\dotnetcore-console-apps\\3.0\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "E:\\github\\dotnetcore-console-apps\\3.0\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\biprasad\\.nuget\\packages\\",
+      "outputPath": "E:\\github\\dotnetcore-console-apps\\3.0\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\biprasad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.1",
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "E:\\vso\\pkg": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {}
+        },
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {},
+      "netcoreapp3.0": {}
+    }
+  }
+}

@@ -1,0 +1,9 @@
+E:\github\dotnetcore-console-apps\2.2\bin\Debug\netcoreapp1.0\2.2.deps.json
+E:\github\dotnetcore-console-apps\2.2\bin\Debug\netcoreapp1.0\2.2.runtimeconfig.json
+E:\github\dotnetcore-console-apps\2.2\bin\Debug\netcoreapp1.0\2.2.runtimeconfig.dev.json
+E:\github\dotnetcore-console-apps\2.2\bin\Debug\netcoreapp1.0\2.2.dll
+E:\github\dotnetcore-console-apps\2.2\bin\Debug\netcoreapp1.0\2.2.pdb
+E:\github\dotnetcore-console-apps\2.2\obj\Debug\netcoreapp1.0\2.2.csproj.CoreCompileInputs.cache
+E:\github\dotnetcore-console-apps\2.2\obj\Debug\netcoreapp1.0\2.2.AssemblyInfo.cs
+E:\github\dotnetcore-console-apps\2.2\obj\Debug\netcoreapp1.0\2.2.dll
+E:\github\dotnetcore-console-apps\2.2\obj\Debug\netcoreapp1.0\2.2.pdb

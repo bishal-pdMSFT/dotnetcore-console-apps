@@ -1,0 +1,11 @@
+E:\github\dotnetcore-console-apps\msbuild.extras.sample\bin\Debug\netcoreapp2.1\msbuild.extras.sample.deps.json
+E:\github\dotnetcore-console-apps\msbuild.extras.sample\bin\Debug\netcoreapp2.1\msbuild.extras.sample.runtimeconfig.json
+E:\github\dotnetcore-console-apps\msbuild.extras.sample\bin\Debug\netcoreapp2.1\msbuild.extras.sample.runtimeconfig.dev.json
+E:\github\dotnetcore-console-apps\msbuild.extras.sample\bin\Debug\netcoreapp2.1\msbuild.extras.sample.dll
+E:\github\dotnetcore-console-apps\msbuild.extras.sample\bin\Debug\netcoreapp2.1\msbuild.extras.sample.pdb
+E:\github\dotnetcore-console-apps\msbuild.extras.sample\obj\Debug\netcoreapp2.1\msbuild.extras.sample.csprojAssemblyReference.cache
+E:\github\dotnetcore-console-apps\msbuild.extras.sample\obj\Debug\netcoreapp2.1\msbuild.extras.sample.csproj.CoreCompileInputs.cache
+E:\github\dotnetcore-console-apps\msbuild.extras.sample\obj\Debug\netcoreapp2.1\msbuild.extras.sample.AssemblyInfoInputs.cache
+E:\github\dotnetcore-console-apps\msbuild.extras.sample\obj\Debug\netcoreapp2.1\msbuild.extras.sample.AssemblyInfo.cs
+E:\github\dotnetcore-console-apps\msbuild.extras.sample\obj\Debug\netcoreapp2.1\msbuild.extras.sample.dll
+E:\github\dotnetcore-console-apps\msbuild.extras.sample\obj\Debug\netcoreapp2.1\msbuild.extras.sample.pdb

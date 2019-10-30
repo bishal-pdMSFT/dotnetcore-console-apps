@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\github\\dotnetcore-console-apps\\msbuild.extras.sample\\msbuild.extras.sample.csproj": {}
+  },
+  "projects": {
+    "E:\\github\\dotnetcore-console-apps\\msbuild.extras.sample\\msbuild.extras.sample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\github\\dotnetcore-console-apps\\msbuild.extras.sample\\msbuild.extras.sample.csproj",
+        "projectName": "msbuild.extras.sample",
+        "projectPath": "E:\\github\\dotnetcore-console-apps\\msbuild.extras.sample\\msbuild.extras.sample.csproj",
+        "packagesPath": "C:\\Users\\biprasad\\.nuget\\packages\\",
+        "outputPath": "E:\\github\\dotnetcore-console-apps\\msbuild.extras.sample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\biprasad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\vso\\pkg": {},
+          "https://pkgs.dev.azure.com/biprasad15/_packaging/MyFeed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/biprasad15/_packaging/MyFeed2/nuget/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
